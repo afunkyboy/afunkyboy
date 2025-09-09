@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @afunkyboy
 - 👀 I’m interested in music and design
-- 🌱 I’m currently refining my javaScript skills
+- 🌱 I’m currently refining my JavaScript skills
 - 📫 How to reach me @afunkyboy on instagram
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm scuba certified
 
 <!---
