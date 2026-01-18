@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afunkyboy
 - 👀 I’m interested in music and design
-- 🌱 I’m currently refining my JavaScript skills
+- 🌱 I’m currently refining my CSS skills
 - 📫 How to reach me @afunkyboy on instagram
 - ⚡ Fun fact: I'm scuba certified
 
